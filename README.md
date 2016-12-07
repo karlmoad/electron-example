@@ -1,2 +1,2 @@
 # electron-example
-example electron app
+This is a sample electron application
